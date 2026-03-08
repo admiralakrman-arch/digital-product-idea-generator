@@ -1,0 +1,1 @@
+# digital-product-idea-generator
