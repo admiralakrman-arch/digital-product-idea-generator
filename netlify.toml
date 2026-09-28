@@ -1,0 +1,4 @@
+Aym:
+[build]
+publish = "."
+functions = "netlify/functions"
